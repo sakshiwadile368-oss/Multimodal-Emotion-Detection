@@ -1,0 +1,12 @@
+deepface
+opencv-python
+tensorflow
+numpy
+matplotlib
+pillow
+transformers
+torch
+torchaudio
+librosa
+soundfile
+emoji
